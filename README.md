@@ -2,6 +2,9 @@
 [![Downloads](https://img.shields.io/github/downloads/GangstaTeam/GangstaMenu/total?label=Total%20Downloads&color=ED1459)](#)
 [![Latest Downloads](https://img.shields.io/github/downloads/GangstaTeam/GangstaMenu/latest/total?color=ED1459&label=Latest%20Downloads)](#)
 
+![LOGO](https://github.com/user-attachments/assets/fd2da301-0374-4207-9134-541019b74ee4)
+
+
 ## Installation
 1. Download release build of [Gangsta Menu](https://github.com/GangstaTeam/GangstaMenu/releases/latest/download/GangstaMenu.zip).
 2. Open downloaded ZIP file in archive software like WinRar/7-Zip
