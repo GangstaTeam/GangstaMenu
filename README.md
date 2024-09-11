@@ -1,4 +1,4 @@
-[![Download Latest Release](https://img.shields.io/github/v/release/GangstaTeam/GangstaMenu?display_name=release&label=Download%20Latest%20Release&color=21ABC7)](#)
+[![Download Latest Release](https://img.shields.io/github/v/release/GangstaTeam/GangstaMenu?display_name=release&label=Download%20Latest%20Release&color=21ABC7)](https://github.com/GangstaTeam/GangstaMenu/releases/latest/download/GangstaMenu.zip)
 [![Downloads](https://img.shields.io/github/downloads/GangstaTeam/GangstaMenu/total?label=Total%20Downloads&color=ED1459)](#)
 [![Latest Downloads](https://img.shields.io/github/downloads/GangstaTeam/GangstaMenu/latest/total?color=ED1459&label=Latest%20Downloads)](#)
 
