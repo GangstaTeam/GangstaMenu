@@ -1,4 +1,4 @@
-[![Download Latest Release](https://img.shields.io/github/v/release/GangstaTeam/GangstaMenu?display_name=release&label=Download%20Latest%20Release&color=21ABC7)](#)
+[![Download Latest Release](https://img.shields.io/github/v/release/GangstaTeam/GangstaMenu?display_name=release&label=Download%20Latest%20Release&color=21ABC7)](https://github.com/GangstaTeam/GangstaMenu/releases/latest/download/GangstaMenu.zip)
 [![Downloads](https://img.shields.io/github/downloads/GangstaTeam/GangstaMenu/total?label=Total%20Downloads&color=ED1459)](#)
 [![Latest Downloads](https://img.shields.io/github/downloads/GangstaTeam/GangstaMenu/latest/total?color=ED1459&label=Latest%20Downloads)](#)
 
@@ -41,6 +41,9 @@
     <td>Circle / B</td>
   </tr>
 </table>
+
+> [!NOTE]  
+> **Photo Mode freecam:** mouse to look, `W` `A` `S` `D` to move, `Q` / `E` down / up, `Shift` to move faster. Close the menu to control the camera.
 
 > [!NOTE]  
 > These controls won't be configurable, so please don't bother opening issue and requesting for feature to add such option. If you're using keyboard with missing key consider using autohotkey or some other software to "rebind" the key.
